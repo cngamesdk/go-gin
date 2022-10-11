@@ -1,2 +1,2 @@
 # go-gin
- 对gin web 框架的封装
+ gin web 框架的二次封装
